@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/5.2.API/acp-api-5.2.0.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/5.2.API/acp-modapi-impl-5.2.0.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/5.2.API/acpl-5.2.0.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/5.2.API/acpl-log4j-5.2.0.0.4.jar"/>
+	<classpathentry kind="lib" path="lib/5.2.API/modapi-5.2.0.0.7.jar"/>
+	<classpathentry kind="lib" path="lib/acp-api-6.0.0.0.250.jar"/>
+	<classpathentry kind="lib" path="lib/acp-modapi-impl-6.0.0.0.250.jar"/>
+	<classpathentry kind="lib" path="lib/acpl-6.0.0.0.250.jar"/>
+	<classpathentry kind="lib" path="lib/acpl-log4j-6.0.0.0.250.jar"/>
+	<classpathentry kind="lib" path="lib/datedFileAppender-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/ew-looks.jar"/>
+	<classpathentry kind="lib" path="lib/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="lib/modapi-6.0.0.0.250.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-0.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/swingx-beaninfo-0.9.5.jar"/>
+	<classpathentry kind="lib" path="TreeTable/lib/ew-looks.jar"/>
+	<classpathentry kind="lib" path="TreeTable/lib/swingx-0.9.5.jar"/>
+	<classpathentry kind="lib" path="TreeTable/lib/swingx-beaninfo-0.9.5.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

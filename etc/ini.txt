@@ -1,0 +1,3 @@
+
+getBridgeTimeEnabled=true
+getBridgeTimeInterval=180000
